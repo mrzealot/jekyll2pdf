@@ -1,0 +1,15 @@
+{
+  "name": "jekyll2pdf",
+  "version": "1.0.0",
+  "description": "A quick and dirty script to convert a folder full of jekyll blog posts into a single PDF document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dénes Bán <mr@zealot.hu>",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.7",
+    "yaml-front-matter": "^4.1.1"
+  }
+}
